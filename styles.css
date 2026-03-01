@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 100px;
+}
+
+form {
+  display: inline-block;
+}
+
+input {
+  display: block;
+  margin: 10px auto;
+  padding: 8px;
+}
+
+#existing {
+  display: none; /* hidden initially */
+  margin-top: 10px;
+}
